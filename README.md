@@ -1,1 +1,1 @@
-# RRRRedisDesktopManager
+# RRRRedis
